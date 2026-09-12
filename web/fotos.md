@@ -6,15 +6,15 @@ title: Fotos e vídeos
 <div class="gallery">
   <div class="photo">
     <img src="assets/img/Eggbots.jpg" alt="Foto 1">
-    <p>Logo del equipo, porque en la pagina principal no quiere aparecer</p>
+    <p>O logo do equipo, que na portada ás veces se fai de rogar.</p>
   </div>
   <div class="photo">
     <img src="assets/fotos/battlebot.jpg" alt="Foto 2">
-    <p>Montaxe da placa controladora ESP32</p>
+    <p>Montaxe da placa controladora con ESP32.</p>
   </div>
   <div class="photo">
     <img src="assets/fotos/battlebot_3D.jpg" alt="Foto 3">
-    <p>Prototipo de chasis impreso en 3D</p>
+    <p>Un dos primeiros prototipos do chasis, impreso en 3D.</p>
   </div>
 </div>
 

@@ -1,23 +1,23 @@
-# Proxecto Battlebot. Equipo Modelo
-Este repositorio é un modelo básico para crear o repositorio en GitLab para o voso proxecto de BattleBot
+# Proxecto Battlebot · Equipo Eggbots
+Este repositorio reúne o deseño, o software e a documentación do noso BattleBot.
 
-Na web https://battlebots.robotica.gal/Eggbots/ podes consultar toda a información da web do proxecto.
+Na web de [Eggbots](https://battlebots.robotica.gal/Eggbots/) está a documentación completa do proxecto.
 
 ## Equipo
-Este equipo modelo esta formado polos profesores encardados da mateira:
-- **Enrique Comesaña Figueroa**: Coordinador do equipo e responsable de deseño hardware e construcción.
-- **Juan José Prado Neira**: Responsable de diseño e implentación de software.
-- **Marcos Fernández González**: Responsable de comunicación (Web e documentación).
-- **Javier Rego Bargos**: Responsable de diseño  mecánico/electrónico.
+O equipo está formado por:
+- **Enrique Comesaña Figueroa**: Coordinador e responsable do deseño de hardware e da construción.
+- **Juan José Prado Neira**: Responsable do deseño e da implementación do software.
+- **Marcos Fernández González**: Responsable da web e da documentación.
+- **Javier Rego Bargos**: Responsable do deseño mecánico e electrónico.
 
 ## Estructura do repositorio
-Este repositorio está estructurado nas seguintes carpetas:
+O repositorio está organizado así:
 - ***README.md***: Este ficheiro.
-- ***web***: Código fonte da web de documentación e publicidade do proxecto.
-- ***electronica***: Deseño de circuitos de control e planos placas de circuito impreso.
-- ***mecanica***: Deseño da estructura mecánica do robot e planos de realización.
+- ***web***: Código fonte da web do proxecto.
+- ***electronica***: Deseño dos circuítos de control e das placas.
+- ***mecanica***: Deseño da estrutura do robot e planos de fabricación.
 - ***software***: Software do robot.
-- ***.gitlab-ci.yml***: Descrición do proceso para a publicación da web de documentación na dirección web anterior
+- ***.gitlab-ci.yml***: Proceso de publicación da web.
 
-## Componentes 
-https://docs.google.com/spreadsheets/d/1ZMKZPNqryC1lRq46kaxvph4U0cHYfyVd0BvwiHCcG7o/edit?usp=sharing
+## Compoñentes
+[Lista de compoñentes](https://docs.google.com/spreadsheets/d/1ZMKZPNqryC1lRq46kaxvph4U0cHYfyVd0BvwiHCcG7o/edit?usp=sharing)
