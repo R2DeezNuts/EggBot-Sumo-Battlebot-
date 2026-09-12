@@ -1,0 +1,6 @@
+# Deseño software do robot
+Nesta carpeta incluense implementación do software e información de instalación no robot.
+
+A carpeta ten a seguinte estructura:
+- ...
+- ...

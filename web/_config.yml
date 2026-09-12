@@ -1,0 +1,14 @@
+title: Equipo Modelo
+description: Web modelo básico para o proxecto de BattleBot empregando Jekyll e GitLab Pages
+
+theme: minima
+markdown: kramdown
+sass:
+  quiet_deps: true
+
+# Control the header navigation in Minima: list pages in the order you want
+header_pages:
+  - index.md
+  - documentacion.md
+  - costes.md
+  - fotos.md

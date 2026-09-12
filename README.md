@@ -1,4 +1,3 @@
-# EggBot-Sumo-Battlebot-
 # Proxecto Battlebot. Equipo Modelo
 Este repositorio é un modelo básico para crear o repositorio en GitLab para o voso proxecto de BattleBot
 
