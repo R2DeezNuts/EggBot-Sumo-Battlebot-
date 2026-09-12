@@ -1,0 +1,6 @@
+# Deseño electrónico do robot
+Nesta carpeta incluense os deseños e materiais electricos/electronicos necesarios para a construcción do robot.
+
+A carpeta ten a seguinte estructura:
+- ...
+- ...

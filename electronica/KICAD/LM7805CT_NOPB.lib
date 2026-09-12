@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LM7805CT_NOPB
+#
+DEF LM7805CT_NOPB Q 0 40 Y Y 1 L N
+F0 "Q" -300 225 50 H V L BNN
+F1 "LM7805CT_NOPB" -300 -300 50 H V L BNN
+F2 "TO254P1054X470X2600-3" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Fairchild Semiconductor" 0 0 50 H I L BNN "MF"
+F5 "\n                        \n                            Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A TO-220-3\n                        \n" 0 0 50 H I L BNN "Description"
+F6 "TO-220-3 ON Semiconductor" 0 0 50 H I L BNN "Package"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "https://www.snapeda.com/parts/LM7805CT/Fairchild+Imaging/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+F9 "IPC-7351B" 0 0 50 H I L BNN "STANDARD"
+F10 "LTR" 0 0 50 H I L BNN "PARTREV"
+F11 "https://www.snapeda.com/parts/LM7805CT/Fairchild+Imaging/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+F12 "LM7805CT" 0 0 50 H I L BNN "MP"
+F13 "In Stock" 0 0 50 H I L BNN "Availability"
+F14 "Texas instruments" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -300 -200 300 200 0 0 16 f
+X IN 1 -500 100 200 R 40 40 0 0 I 
+X GND 2 500 -100 200 L 40 40 0 0 W 
+X OUT 3 500 100 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

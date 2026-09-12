@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "32UE")(type "KiCad")(uri "${KIPRJMOD}/32UE.pretty")(options "")(descr ""))
+  (lib (name "xt30")(type "KiCad")(uri "${KIPRJMOD}/xt30.pretty")(options "")(descr ""))
+  (lib (name "32d")(type "KiCad")(uri "${KIPRJMOD}/32d.pretty")(options "")(descr ""))
+  (lib (name "pendulo_invertido")(type "KiCad")(uri "${KIPRJMOD}/pendulo_invertido.pretty")(options "")(descr ""))
+  (lib (name "0_Huellas")(type "KiCad")(uri "${KIPRJMOD}/0_Huellas.pretty")(options "")(descr ""))
+  (lib (name "GY")(type "KiCad")(uri "${KIPRJMOD}/GY-521/GY.pretty")(options "")(descr ""))
+  (lib (name "DRIVER")(type "KiCad")(uri "${KIPRJMOD}/DRIVER.pretty")(options "")(descr ""))
+)
