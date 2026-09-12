@@ -1,0 +1,6 @@
+# Deseño mecánico do robot
+Nesta carpeta incluense os deseños e elementos mecánicos necesarios para a construcción do robot.
+
+A carpeta ten a seguinte estructura:
+- ...
+- ...
