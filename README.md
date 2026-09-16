@@ -1,7 +1,6 @@
 # Proxecto Battlebot · Equipo Eggbots
-Este repositorio reúne o deseño, o software e a documentación do noso BattleBot.
 
-Na web de [Eggbots](https://battlebots.robotica.gal/Eggbots/) está a documentación completa do proxecto.
+Este repositorio reúne o deseño, o software e a documentación do noso BattleBot. A [web de Eggbots](https://battlebots.robotica.gal/Eggbots/) recolle a documentación completa do proxecto.
 
 ## Equipo
 O equipo está formado por:
@@ -10,8 +9,9 @@ O equipo está formado por:
 - **Marcos Fernández González**: Responsable da web e da documentación.
 - **Javier Rego Bargos**: Responsable do deseño mecánico e electrónico.
 
-## Estructura do repositorio
-O repositorio está organizado así:
+## Estrutura do repositorio
+
+O repositorio organízase en:
 - ***README.md***: Este ficheiro.
 - ***web***: Código fonte da web do proxecto.
 - ***electronica***: Deseño dos circuítos de control e das placas.
@@ -20,4 +20,5 @@ O repositorio está organizado así:
 - ***.gitlab-ci.yml***: Proceso de publicación da web.
 
 ## Compoñentes
-[Lista de compoñentes](https://docs.google.com/spreadsheets/d/1ZMKZPNqryC1lRq46kaxvph4U0cHYfyVd0BvwiHCcG7o/edit?usp=sharing)
+
+Consulta a [lista de compoñentes](https://docs.google.com/spreadsheets/d/1ZMKZPNqryC1lRq46kaxvph4U0cHYfyVd0BvwiHCcG7o/edit?usp=sharing) para ver o material empregado.
